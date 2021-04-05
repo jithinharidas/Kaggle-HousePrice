@@ -1,7 +1,6 @@
 # Kaggle
 This is the legendary Titanic ML competition – the best, first challenge for you to dive into ML competitions and familiarize yourself with how the Kaggle platform works.  
 The competition is simple: use machine learning to create a model that predicts which passengers survived the Titanic shipwreck.  
-
 ```python
 import numpy as np
 import pandas as pd
@@ -1123,19 +1122,19 @@ boxplot('BsmtFinType1')
 ```
 
 
-![png](\Graphs\output_30_0.png)
+![png](/Graphs/output_30_0.png)
 
 
 
-![png](\Graphs\output_30_1.png)
+![png](/Graphs/output_30_1.png)
 
 
 
-![png](\Graphs\output_30_2.png)
+![png](/Graphs/output_30_2.png)
 
 
 
-![png](\Graphs\output_30_3.png)
+![png](/Graphs/output_30_3.png)
 
 
 Alley has a impact on price as we can see from boxplot. 
@@ -1150,19 +1149,19 @@ boxplot('CentralAir')
 ```
 
 
-![png](\Graphs\output_32_0.png)
+![png](/Graphs/output_32_0.png)
 
 
 
-![png](\Graphs\output_32_1.png)
+![png](/Graphs/output_32_1.png)
 
 
 
-![png](\Graphs\output_32_2.png)
+![png](/Graphs/output_32_2.png)
 
 
 
-![png](\Graphs\output_32_3.png)
+![png](/Graphs/output_32_3.png)
 
 
 CentralAir,BsmtQual has a impact on price as we can see from boxplot. BsmtFinType2,BsmtExposure has a very small impact.
@@ -1176,19 +1175,19 @@ boxplot('ExterCond')
 ```
 
 
-![png](\Graphs\output_34_0.png)
+![png](/Graphs/output_34_0.png)
 
 
 
-![png](\Graphs\output_34_1.png)
+![png](/Graphs/output_34_1.png)
 
 
 
-![png](\Graphs\output_34_2.png)
+![png](/Graphs/output_34_2.png)
 
 
 
-![png](\Graphs\output_34_3.png)
+![png](/Graphs/output_34_3.png)
 
 
 ExterCond,Condition2,Condition1 has a impact on price as we can see from boxplot. Electrical has a very small impact.
