@@ -1201,19 +1201,19 @@ boxplot('Fence')
 ```
 
 
-![png](\Graphs\output_36_0.png)
+![png](/Graphs/output_36_0.png)
 
 
 
-![png](\Graphs\output_36_1.png)
+![png](/Graphs/output_36_1.png)
 
 
 
-![png](\Graphs\output_36_2.png)
+![png](/Graphs/output_36_2.png)
 
 
 
-![png](\Graphs\output_36_3.png)
+![png](/Graphs/output_36_3.png)
 
 
 ExterQual has a impact on price as we can see from boxplot. Fence,Exterior1st,Exterior2nd has a very small impact.
@@ -1227,19 +1227,19 @@ boxplot('GarageCond')
 ```
 
 
-![png](\Graphs\output_38_0.png)
+![png](/Graphs/output_38_0.png)
 
 
 
-![png](\Graphs\output_38_1.png)
+![png](/Graphs/output_38_1.png)
 
 
 
-![png](\Graphs\output_38_2.png)
+![png](/Graphs/output_38_2.png)
 
 
 
-![png](\Graphs\output_38_3.png)
+![png](/Graphs/output_38_3.png)
 
 
 FireplaceQu,Foundation,Functional,GarageCond has a very small impact. also excellent fireplacequal shows a jump in price.
@@ -1253,19 +1253,19 @@ boxplot('Heating')
 ```
 
 
-![png](\Graphs\output_40_0.png)
+![png](/Graphs/output_40_0.png)
 
 
 
-![png](\Graphs\output_40_1.png)
+![png](/Graphs/output_40_1.png)
 
 
 
-![png](\Graphs\output_40_2.png)
+![png](/Graphs/output_40_2.png)
 
 
 
-![png](\Graphs\output_40_3.png)
+![png](/Graphs/output_40_3.png)
 
 
 GarageQual,GarageFinish has a impact on price as we can see from boxplot. Heating,GarageType has a very small impact.
@@ -1279,19 +1279,19 @@ boxplot('LandContour')
 ```
 
 
-![png](\Graphs\output_42_0.png)
+![png](/Graphs/output_42_0.png)
 
 
 
-![png](\Graphs\output_42_1.png)
+![png](/Graphs/output_42_1.png)
 
 
 
-![png](\Graphs\output_42_2.png)
+![png](/Graphs/output_42_2.png)
 
 
 
-![png](\Graphs\output_42_3.png)
+![png](/Graphs/output_42_3.png)
 
 
 HouseStyle,KitchenQual has a impact on price as we can see from boxplot. LandContour,HeatingQC has a very small impact.
@@ -1305,19 +1305,19 @@ boxplot('MSZoning')
 ```
 
 
-![png](\Graphs\output_44_0.png)
+![png](/Graphs/output_44_0.png)
 
 
 
-![png](\Graphs\output_44_1.png)
+![png](/Graphs/output_44_1.png)
 
 
 
-![png](\Graphs\output_44_2.png)
+![png](/Graphs/output_44_2.png)
 
 
 
-![png](\Graphs\output_44_3.png)
+![png](/Graphs/output_44_3.png)
 
 
 MSZoning has a impact on price as we can see from boxplot. LotShape,LotConfig,LandSlope has no impact.
@@ -1331,19 +1331,19 @@ boxplot('PavedDrive')
 ```
 
 
-![png](\Graphs\output_46_0.png)
+![png](/Graphs/output_46_0.png)
 
 
 
-![png](\Graphs\output_46_1.png)
+![png](/Graphs/output_46_1.png)
 
 
 
-![png](\Graphs\output_46_2.png)
+![png](/Graphs/output_46_2.png)
 
 
 
-![png](\Graphs\output_46_3.png)
+![png](/Graphs/output_46_3.png)
 
 
 PavedDrive,Neighborhood,MiscFeature has a impact on price. MasVnrType has a very small impact,changes drastically with stone.
@@ -1357,19 +1357,19 @@ boxplot('SaleCondition')
 ```
 
 
-![png](\Graphs\output_48_0.png)
+![png](/Graphs/output_48_0.png)
 
 
 
-![png](\Graphs\output_48_1.png)
+![png](/Graphs/output_48_1.png)
 
 
 
-![png](\Graphs\output_48_2.png)
+![png](/Graphs/output_48_2.png)
 
 
 
-![png](\Graphs\output_48_3.png)
+![png](/Graphs/output_48_3.png)
 
 
 RoofStyle,RoofMatl,PoolQC has a impact on price as we can see from boxplot. SaleCondition has a very small impact and increase with Partial.
@@ -1382,15 +1382,15 @@ boxplot('Utilities')
 ```
 
 
-![png](\Graphs\output_50_0.png)
+![png](/Graphs/output_50_0.png)
 
 
 
-![png](\Graphs\output_50_1.png)
+![png](/Graphs/output_50_1.png)
 
 
 
-![png](\Graphs\output_50_2.png)
+![png](/Graphs/output_50_2.png)
 
 
 SaleType has a impact on price as we can see from boxplot. Street,Utilities has a very small impact.
@@ -1459,7 +1459,7 @@ sns.heatmap(corrmat, vmax=.8, square=True)
 
 
 
-![png](\Graphs\output_53_1.png)
+![png](/Graphs/output_53_1.png)
 
 
 
@@ -1475,7 +1475,7 @@ plt.show()
 ```
 
 
-![png](\Graphs\output_54_0.png)
+![png](/Graphs/output_54_0.png)
 
 
 #### High Correlated
