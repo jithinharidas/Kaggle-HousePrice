@@ -25,3 +25,7 @@ Feature engineering and a solution using Kernel Ridge regression are shown in [K
 
 ### Reference
 [House Prices: Advanced Regression Techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
+
+## Team
+- [Jithin K Haridas](https://github.com/jithinharidas)
+- [Satyak C](https://github.com/satyak3)
